@@ -1,169 +1,113 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="cctv1" group-title="CCTV-HD",CCTV-1 HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV-HD",CCTV-1 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
-
-#EXTINF:-1 tvg-id="cctv2" group-title="CCTV-HD",CCTV-2 HD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV-HD",CCTV-2 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-
-#EXTINF:-1 tvg-id="cctv3" group-title="CCTV-HD",CCTV-3 HD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV-HD",CCTV-3 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-
-#EXTINF:-1 tvg-id="cctv4" group-title="CCTV-HD",CCTV-4 HD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV-HD",CCTV-4 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-
-#EXTINF:-1 tvg-id="cctv5" group-title="CCTV-HD",CCTV-5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV-HD",CCTV-5 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-
-#EXTINF:-1 tvg-id="cctv5plus" group-title="CCTV-HD",CCTV-5+ HD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
-
-#EXTINF:-1 tvg-id="cctv6" group-title="CCTV-HD",CCTV-6 HD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV-HD",CCTV-6 HD
 http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv7" group-title="CCTV-HD",CCTV-7 HD
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-7 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-
-#EXTINF:-1 tvg-id="cctv8" group-title="CCTV-HD",CCTV-8 HD
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV-HD",CCTV-8 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-
-#EXTINF:-1 tvg-id="cctvjilu" group-title="CCTV-HD",CCTV-9 HD
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV-HD",CCTV-9 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-
-#EXTINF:-1 tvg-id="cctv10" group-title="CCTV-HD",CCTV-10 HD
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV-HD",CCTV-10 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-
-#EXTINF:-1 tvg-id="cctv11" group-title="CCTV-HD",CCTV-11 HD
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV-HD",CCTV-11 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-
-#EXTINF:-1 tvg-id="cctv12" group-title="CCTV-HD",CCTV-12 HD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV-HD",CCTV-12 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-
-#EXTINF:-1 tvg-id="cctv13" group-title="CCTV-HD",CCTV-13 HD
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV-HD",CCTV-13 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-
-#EXTINF:-1 tvg-id="cctvchild" group-title="CCTV-HD",CCTV-14 HD
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV-HD",CCTV-14 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
-
-#EXTINF:-1 tvg-id="cctv15" group-title="CCTV-HD",CCTV-15 HD
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV-HD",CCTV-15 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-
-#EXTINF:-1 tvg-id="cctv17" group-title="CCTV-HD",CCTV-17 HD
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV-HD",CCTV-17 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
-
-#EXTINF:-1 tvg-id="btv1" group-title="Local TV HD",北京卫视 HD
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="LocalTVHD",北京卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
-
-#EXTINF:-1 tvg-id="btv2" group-title="Local TV HD",北京文艺 HD
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="LocalTVHD",北京文艺 HD
 http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8
-
-#EXTINF:-1 tvg-id="btv4" group-title="Local TV HD",北京影视 HD
-http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8 
-
-#EXTINF:-1 tvg-id="btv6" group-title="Local TV HD",北京体育 HD
-http://ivi6.bupt.edu.cn/hls/btv6hd.m3u8 
-
-#EXTINF:-1 tvg-id="btv9" group-title="Local TV HD",北京新闻 HD
-http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8 
-
-#EXTINF:-1 tvg-id="btvjishi" group-title="Local TV HD",北京纪实 HD
-http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8 
-
-#EXTINF:-1 tvg-id="hunan" group-title="Local TV HD",湖南卫视 HD
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="LocalTVHD",北京影视 HD
+http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",北京体育 HD
+http://ivi6.bupt.edu.cn/hls/btv6hd.m3u8
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="LocalTVHD",北京新闻 HD
+http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="LocalTVHD",北京纪实 HD
+http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="LocalTVHD",湖南卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
-
-#EXTINF:-1 tvg-id="jiangsu" group-title="Local TV HD",江苏卫视 HD
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="LocalTVHD",江苏卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
-
-#EXTINF:-1 tvg-id="zhejiang" group-title="Local TV HD",浙江卫视 HD
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="LocalTVHD",浙江卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
-
-#EXTINF:-1 tvg-id="dongfang" group-title="Local TV HD",东方卫视 HD
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="LocalTVHD",东方卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-
-#EXTINF:-1 tvg-id="anhui" group-title="Local TV HD",安徽卫视 HD
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="LocalTVHD",安徽卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
-
-#EXTINF:-1 tvg-id="heilongjiang" group-title="Local TV HD",黑龙江卫视 HD
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="LocalTVHD",黑龙江卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293902.m3u8
-
-#EXTINF:-1 tvg-id="liaoning" group-title="Local TV HD",辽宁卫视 HD
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="LocalTVHD",辽宁卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281302.m3u8
-
-#EXTINF:-1 tvg-id="shenzhen" group-title="Local TV HD",深圳卫视 HD
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="LocalTVHD",深圳卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
-
-#EXTINF:-1 tvg-id="guangdong" group-title="Local TV HD",广东卫视 HD
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="LocalTVHD",广东卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
-
-#EXTINF:-1 tvg-id="tianjin" group-title="Local TV HD",天津卫视 HD
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="LocalTVHD",天津卫视 HD
 http://ivi6.bupt.edu.cn/hls/tjhd.m3u8
-
-#EXTINF:-1 tvg-id="hubei" group-title="Local TV HD",湖北卫视 HD
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="LocalTVHD",湖北卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294502.m3u8
-
-#EXTINF:-1 tvg-id="shandong" group-title="Local TV HD",山东卫视 HD
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="LocalTVHD",山东卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294802.m3u8
-
-#EXTINF:-1 tvg-id="chongqing" group-title="Local TV HD",重庆卫视 HD
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="LocalTVHD",重庆卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297802.m3u8
-
-#EXTINF:-1 tvg-id="hebei" group-title="Local TV HD",河北卫视 HD
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="LocalTVHD",河北卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293402.m3u8
-
-#EXTINF:-1 tvg-id="sichuan" group-title="Local TV HD",四川卫视 HD
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="LocalTVHD",四川卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295002.m3u8
-
-#EXTINF:-1 tvg-id="jiangxi" group-title="Local TV HD",江西卫视 HD
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="LocalTVHD",江西卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294102.m3u8
-
-#EXTINF:-1 tvg-id="dongnan" group-title="Local TV HD",福建东南卫视 HD
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="LocalTVHD",福建东南卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292502.m3u8
-
-#EXTINF:-1 tvg-id="hainan" group-title="Local TV HD",海南卫视 HD
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="LocalTVHD",海南卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291502.m3u8
-
-#EXTINF:-1 tvg-id="guizhou" group-title="Local TV HD",贵州卫视 HD
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="LocalTVHD",贵州卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293302.m3u8
-
-#EXTINF:-1 tvg-id="guangxi" group-title="Local TV HD",广西卫视 HD
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="LocalTVHD",广西卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294202.m3u8
-
-#EXTINF:-1 tvg-id="henan" group-title="Local TV HD",河南卫视 HD
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="LocalTVHD",河南卫视 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296102.m3u8
-
-#EXTINF:-1 tvg-id="jilin" group-title="Local TV HD",吉林卫视 HD
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="LocalTVHD",吉林卫视 HD
 http://ivi6.bupt.edu.cn/hls/jlhd.m3u8
-
-#EXTINF:-1 tvg-id="shaanxi" group-title="Local TV",陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="LocalTV",陕西卫视
 http://ivi6.bupt.edu.cn/hls/sxtv.m3u8
-
-#EXTINF:-1 tvg-id="yunnan" group-title="Local TV",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="LocalTV",云南卫视
 http://ivi6.bupt.edu.cn/hls/yntv.m3u8
-
-#EXTINF:-1 tvg-id="xizang" group-title="Local TV",西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="LocalTV",西藏卫视
 http://ivi6.bupt.edu.cn/hls/xztv.m3u8
-
-#EXTINF:-1 tvg-id="neimenggu" group-title="Local TV",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="LocalTV",内蒙古卫视
 http://ivi6.bupt.edu.cn/hls/nmtv.m3u8
-
-#EXTINF:-1 tvg-id="qinghai" group-title="Local TV",青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="LocalTV",青海卫视
 http://ivi6.bupt.edu.cn/hls/qhtv.m3u8
-
-#EXTINF:-1 tvg-id="ningxia" group-title="Local TV",宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="LocalTV",宁夏卫视
 http://ivi6.bupt.edu.cn/hls/nxtv.m3u8
-
-#EXTINF:-1 tvg-id="sansha" group-title="Local TV",三沙卫视
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="LocalTV",三沙卫视
 http://ivi6.bupt.edu.cn/hls/sstv.m3u8
-
-#EXTINF:-1 group-title="Local TV",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV1
 http://ivi6.bupt.edu.cn/hls/cetv1.m3u8
-
-#EXTINF:-1 group-title="Local TV",CETV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV3
 http://ivi6.bupt.edu.cn/hls/cetv3.m3u8
-
-#EXTINF:-1 group-title="Local TV",CETV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV4
 http://ivi6.bupt.edu.cn/hls/cetv4.m3u8
-
-#EXTINF:-1 group-title="Local TV HD",CGTN高清 HD
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="LocalTVHD",CGTN高清 HD
 https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
