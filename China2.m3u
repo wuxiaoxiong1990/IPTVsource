@@ -7,7 +7,7 @@ http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203603.m3u8
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203803.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204503.m3u8
