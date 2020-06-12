@@ -75,13 +75,13 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="未分类",五星体育1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海Knews24 1080P
+#EXTINF:-1 tvg-id="" tvg-name="上海Knews24" tvg-logo="" group-title="未分类",上海Knews24 1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba8/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="未分类",湖南卫视高清
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="未分类",五星体育高清
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新闻24高清
+#EXTINF:-1 tvg-id="" tvg-name="新闻24高清" tvg-logo="" group-title="未分类",新闻24高清
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba8/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg" group-title="未分类",湖南卫视HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/2300000/mnf.m3u8
@@ -97,15 +97,15 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/2300000/mnf.m3
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="未分类",五星体育HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地HD
+#EXTINF:-1 tvg-id="" tvg-name="法治天地HD" tvg-logo="" group-title="未分类",法治天地HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="未分类",欢笑剧场HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hxjc/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场HD
+#EXTINF:-1 tvg-id="" tvg-name="都市剧场HD" tvg-logo="" group-title="未分类",都市剧场HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjc/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="未分类",七彩戏剧HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场HD
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场HD" tvg-logo="" group-title="未分类",动漫秀场HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dmxc/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="未分类",劲爆体育HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jbty/1300000/mnf.m3u8
@@ -115,27 +115,27 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
 http://keonline.shanghai.liveplay.qq.com/live/program/live/yxfy/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9757cdb6f.png" group-title="未分类",金鹰卡通
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s.wasu.cn/data/images/201804/23/5add7c96b4c8c.png" group-title="未分类",炫动卡通
+#EXTINF:-1 tvg-id="" tvg-name="炫动卡通" tvg-logo="http://s.wasu.cn/data/images/201804/23/5add7c96b4c8c.png" group-title="未分类",炫动卡通
 http://keonline.shanghai.liveplay.qq.com/live/program/live/xdkt/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="未分类",嘉佳卡通
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jjkt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星尚
+#EXTINF:-1 tvg-id="" tvg-name="星尚" tvg-logo="" group-title="未分类",星尚
 http://keonline.shanghai.liveplay.qq.com/live/program/live/shss/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="未分类",上海纪实
 http://keonline.shanghai.liveplay.qq.com/live/program/live/jspd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="未分类",上海新闻
 http://keonline.shanghai.liveplay.qq.com/live/program/live/xwzh/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海娱乐
+#EXTINF:-1 tvg-id="" tvg-name="上海娱乐" tvg-logo="" group-title="未分类",上海娱乐
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ylpd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="未分类",上海电视剧
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dsjpd/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海ICS外语频道
+#EXTINF:-1 tvg-id="" tvg-name="上海ICS外语频道" tvg-logo="" group-title="未分类",上海ICS外语频道
 http://keonline.shanghai.liveplay.qq.com/live/program/live/wypd/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",上海艺术人文
+#EXTINF:-1 tvg-id="" tvg-name="上海艺术人文" tvg-logo="" group-title="未分类",上海艺术人文
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ysrw/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财*浦东
+#EXTINF:-1 tvg-id="" tvg-name="东方财经浦东" tvg-logo="" group-title="未分类",东方财经浦东
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",第一财*
+#EXTINF:-1 tvg-id="" tvg-name="第一财经" tvg-logo="" group-title="未分类",第一财经
 http://keonline.shanghai.liveplay.qq.com/live/program/live/dycj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="未分类",安徽卫视
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ahws/1300000/mnf.m3u8
@@ -175,19 +175,19 @@ http://keonline.shanghai.liveplay.qq.com/live/program/live/jxws/1300000/mnf.m3u8
 http://keonline.shanghai.liveplay.qq.com/live/program/live/nmgws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="未分类",五星体育HD
 http://keonline.shanghai.liveplay.qq.com/live/program/live/ssty/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播1-1080P
+#EXTINF:-1 tvg-id="" tvg-name="直播1" tvg-logo="" group-title="未分类",直播1-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba1/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播2-1080P
+#EXTINF:-1 tvg-id="" tvg-name="直播2" tvg-logo="" group-title="未分类",直播2-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba2/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播3-1080P
+#EXTINF:-1 tvg-id="" tvg-name="直播3" tvg-logo="" group-title="未分类",直播3-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba3/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播4-1080P
+#EXTINF:-1 tvg-id="" tvg-name="直播4" tvg-logo="" group-title="未分类",直播4-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba4/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播5-1080P
+#EXTINF:-1 tvg-id="" tvg-name="直播5" tvg-logo="" group-title="未分类",直播5-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba5/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播6-1080P
+#EXTINF:-1 tvg-id="" tvg-name="直播6" tvg-logo="" group-title="未分类",直播6-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba6/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",直播7-1080P
+#EXTINF:-1 tvg-id="" tvg-name="直播7" tvg-logo="" group-title="未分类",直播7-1080P
 http://keonline.shanghai.liveplay.qq.com/live/program/live/hdnba7/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="未分类",北京影视
 http://101.89.132.136:80/live/tm-btv4-4000k.m3u8
@@ -213,17 +213,17 @@ http://101.89.132.136:80/live/tm-heilongjianghd-4000k.m3u8
 http://101.89.132.136:80/live/tm-liaoninghd-4000k.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="未分类",上海电视剧
 http://101.89.132.179/live/tm-shdsj-4000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",喜剧影院
+#EXTINF:-1 tvg-id="" tvg-name="喜剧影院" tvg-logo="" group-title="未分类",喜剧影院
 http://101.89.132.179/live/tm-yg1xjyy-1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电影
+#EXTINF:-1 tvg-id="" tvg-name="电影" tvg-logo="" group-title="未分类",电影
 http://101.89.132.179/live/tm-yg1dypd-1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",情感影院
+#EXTINF:-1 tvg-id="" tvg-name="情感影院" tvg-logo="" group-title="未分类",情感影院
 http://101.89.132.179/live/tm-yg1qgyy-1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作影院
+#EXTINF:-1 tvg-id="" tvg-name="动作影院" tvg-logo="" group-title="未分类",动作影院
 http://101.89.132.179/live/tm-yg1dzyy-1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精品影院
+#EXTINF:-1 tvg-id="" tvg-name="精品影院" tvg-logo="" group-title="未分类",精品影院
 http://101.89.132.179/live/tm-yg1jpyy-1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典剧场
+#EXTINF:-1 tvg-id="" tvg-name="经典剧场" tvg-logo="" group-title="未分类",经典剧场
 http://101.89.132.179/live/tm-yg1jdjc-1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",骄阳剧场
+#EXTINF:-1 tvg-id="" tvg-name="骄阳剧场" tvg-logo="" group-title="未分类",骄阳剧场
 http://101.89.132.179/live/tm-yg1jyjc-1200k.m3u8

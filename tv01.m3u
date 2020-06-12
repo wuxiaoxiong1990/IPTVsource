@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690621284_114.png" group-title="未分类",CCTV1
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690628754_865.png" group-title="未分类",CCTV2
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv2/online.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690636178_381.png" group-title="未分类",CCTV3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690643904_775.png" group-title="未分类",CCTV4
+http://liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690667705_448.png" group-title="未分类",CCTV5
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690778390_816.png" group-title="未分类",CCTV6
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690784255_278.png" group-title="未分类",CCTV7
+http://liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690790198_722.png" group-title="未分类",CCTV8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690795998_302.png" group-title="未分类",CCTV9
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690808635_434.png" group-title="未分类",CCTV10
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690834418_289.png" group-title="未分类",CCTV11
+http://liveplay-kk.rtxapp.com/live/program/live/cctv11/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690839834_489.png" group-title="未分类",CCTV12
+http://liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690846155_999.png" group-title="未分类",CCTV13
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv13/online.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690851927_207.png" group-title="未分类",CCTV14
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/25/1453690858316_436.png" group-title="未分类",CCTV15
+http://liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="未分类",CCTV17
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg" group-title="未分类",湖南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png" group-title="未分类",浙江卫视
+http://yf.m.l.cztv.com/channels/lantian/channel01/360p.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg" group-title="未分类",东方卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/dongfang_2/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d2aaed87.png" group-title="未分类",江苏卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png" group-title="未分类",安徽卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/anhui_2/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://s.wasu.cn/data/images/201603/15/56e760cf70d42.png" group-title="未分类",重庆卫视
+http://liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="未分类",BTV北京卫视
+http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d494a38e.png" group-title="未分类",天津卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/tianjin_2/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://www.haoqu.net/d/file/2014/0116/20140116014711584.jpg" group-title="未分类",辽宁卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/liaoning_2/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc704917e.png" group-title="未分类",江西卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/jiangxi_2/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d67870b3.png" group-title="未分类",黑龙江卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564eb79891a97.png" group-title="未分类",山东卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/shandong_2/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcd1c31ab.png" group-title="未分类",云南卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/yunnan_2/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebb7c2f272.png" group-title="未分类",四川卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/sichuan_2/index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="未分类",四川康巴卫视
+http://stream.kangbatv.com/test/sd/live.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd72d9f07.png" group-title="未分类",河南卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://s.wasu.cn/data/images/201803/09/5aa24fc3c8a95.png" group-title="未分类",广东卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/guangdong_2/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564e80f4757c8.png" group-title="未分类",深圳卫视
+https://sztv-live.cutv.com/AxeFRth/500/327hxgF.m3u8?sign=800bee11a1cdf70d5269080b624ee25e&t=5e873cd8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506de1abb41.png" group-title="未分类",湖北卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/hubei_2/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebc33d5781.png" group-title="未分类",东南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="未分类",厦门卫视
+http://liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海峡卫视
+http://stream6.fjtv.net/haixia/sd/live.m3u8?_upt=23a94ba11585921623&drm
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebcfa5599f.png" group-title="未分类",河北卫视
+http://live5.plus.hebtv.com/hbws/sd/live.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebec005f68.png" group-title="未分类",吉林卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jlws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://www.gxtv.cn/static/images/gxntv_logo_white.png" group-title="未分类",广西卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/guangxi_2/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://s.wasu.cn/data/images/201706/26/59506dfaea3eb.png" group-title="未分类",山西卫视
+http://liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567ba1ed41ca1.png" group-title="未分类",陕西卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/shan3xi_2/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1bf89530.png" group-title="未分类",内蒙古卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/neimenggu_2/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png" group-title="未分类",宁夏卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec156d06de.png" group-title="未分类",西藏卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/xizang_2/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec1876f510.png" group-title="未分类",新疆卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/xinjiang_2/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebd979fbf3.png" group-title="未分类",甘肃卫视
+http://liveplay-kk.rtxapp.com/live/program/live/gsws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="未分类",海南卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/travel_2/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://s.wasu.cn/data/images/201511/20/564ebbb11c454.png" group-title="未分类",贵州卫视
+http://cctvalih5ca.v.myalicdn.com/wstv/guizhou_2/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://s.wasu.cn/data/images/201512/24/567bbf299dfa0.png" group-title="未分类",青海卫视
+http://liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="未分类",兵团卫视
+http://liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
